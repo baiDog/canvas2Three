@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon --trace-warnings ./src/index.js"
+  },
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify": "^3.28.0",
+    "fastify-swagger": "^5.1.1",
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
